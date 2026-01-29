@@ -19,7 +19,6 @@ h1 {
   border: 2px solid #00796b;  
   border-radius: 8px;
   padding: 25px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1); 
 }
 
 .form-group {
